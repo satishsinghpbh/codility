@@ -1,6 +1,6 @@
 # Review rules for codility
 
-Org baseline applies. Repo-specific rules below.
+Org baseline (OWASP ASVS / NIST SSDF mapped, from the `engineering-standards` plugin) applies. Repo-specific rules below.
 
 ## Blocking
 - Solution does not compile with `javac`.
