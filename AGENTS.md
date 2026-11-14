@@ -2,7 +2,7 @@
 
 Standalone Java solutions to Codility exercises (one file per problem, no build tool).
 
-Org-wide standards come from the `engineering-standards` Devin plugin; this file adds repo-specific rules. Review rules: `.github/REVIEW.md`.
+Org-wide standards come from the `engineering-ai` Devin plugin; this file adds repo-specific rules. Review rules: `.github/REVIEW.md`.
 
 ## Setup
 - Runtime: JDK 21+. No Maven/Gradle; no dependencies.
